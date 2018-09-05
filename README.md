@@ -1,2 +1,2 @@
 # SPA
-SPA (simple blog) using django rest framework & vue js
+SPA (CRUD app) using django rest framework & vue js
